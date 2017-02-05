@@ -1,0 +1,8 @@
+JorjeiaApp.MainActivity, JorjeiaApp;md576c564fcc15eb5c45ddf8c0f329f313f.MainActivity
+JorjeiaApp.MainActivity, JorjeiaApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md576c564fcc15eb5c45ddf8c0f329f313f.MainActivity
+JorjeiaApp.MainActivity;md576c564fcc15eb5c45ddf8c0f329f313f.MainActivity
+jorjeiaapp.MainActivity;md576c564fcc15eb5c45ddf8c0f329f313f.MainActivity
+JorjeiaApp.SplashActivity, JorjeiaApp;md576c564fcc15eb5c45ddf8c0f329f313f.SplashActivity
+JorjeiaApp.SplashActivity, JorjeiaApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md576c564fcc15eb5c45ddf8c0f329f313f.SplashActivity
+JorjeiaApp.SplashActivity;md576c564fcc15eb5c45ddf8c0f329f313f.SplashActivity
+jorjeiaapp.SplashActivity;md576c564fcc15eb5c45ddf8c0f329f313f.SplashActivity
