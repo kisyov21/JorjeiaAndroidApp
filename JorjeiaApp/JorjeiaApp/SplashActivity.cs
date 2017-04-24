@@ -14,7 +14,8 @@ using Android.Util;
 
 namespace JorjeiaApp
 {
-    [Activity(Label = "SplashActivity", MainLauncher = true, NoHistory = true)]
+    //[Activity(Label = "SplashActivity", MainLauncher = true, NoHistory = true)]
+    [Activity(Theme = "@style/MyTheme.Splash", MainLauncher = true, NoHistory = true)]
     public class SplashActivity : Activity
     {
         static readonly string TAG = "X:" + typeof(SplashActivity).Name;
@@ -30,7 +31,6 @@ namespace JorjeiaApp
             base.OnResume();
 
             Task startupWork = new Task(() => {
-                SetContentView(Resource.Layout.Splash);
                 Log.Debug(TAG, "Performing some startup work that takes a bit of time.");
                 Task.Delay(15000);  // Simulate a bit of startup work.
                 Log.Debug(TAG, "Working in the background - important stuff.");

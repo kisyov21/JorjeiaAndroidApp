@@ -45,13 +45,16 @@ D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\JorjeiaApp.dll
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\JorjeiaApp.pdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\JorjeiaApp.JorjeiaApp.apk
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\JorjeiaApp.JorjeiaApp-Signed.apk
-D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\JorjeiaApp.csprojResolveAssemblyReference.cache
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\JorjeiaApp.dll
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\JorjeiaApp.pdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\android\bin\JorjeiaApp.JorjeiaApp.apk
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\main2.xml
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\missions.xml
-D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\splash.xml
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\newmission.xml
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\newmissionintro.xml
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\camera.xml
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\contacts.xml
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\calendar.xml
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\layout\main.xml
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\values\strings.xml
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\drawable\icon.png
@@ -59,8 +62,8 @@ D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\drawable\l
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\res\drawable\splash.png
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\R.cs.flag
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\uploadflags.txt
-D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\Java.Interop.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\JorjeiaApp.dll.mdb
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\Java.Interop.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\Mono.Android.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\mscorlib.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
@@ -83,5 +86,6 @@ D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\android\assets
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\JorjeiaApp.csprojResolveAssemblyReference.cache
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\obj\Debug\JorjeiaApp.dll.mdb
 D:\Repositories\JorjeiaAndroidApp\JorjeiaApp\JorjeiaApp\bin\Debug\JorjeiaApp.dll.mdb

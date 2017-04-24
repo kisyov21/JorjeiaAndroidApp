@@ -3,6 +3,8 @@
   <PropertyGroup>
     <AndroidDesignerPreferredDevice>Nexus 5</AndroidDesignerPreferredDevice>
     <AndroidDesignerPreferredTheme>Theme.DeviceDefault.Light</AndroidDesignerPreferredTheme>
-    <SelectedDevice>Android_Accelerated_x86</SelectedDevice>
+    <SelectedDevice>5.2" Marshmallow %286.0.0%29 XXHDPI Phone</SelectedDevice>
+    <DefaultDevice>5.2" Marshmallow %286.0.0%29 XXHDPI Phone</DefaultDevice>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>
